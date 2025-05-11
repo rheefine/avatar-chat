@@ -1,3 +1,6 @@
 [submodule "avatar-chat-backend"]
 	path = avatar-chat-backend
 	url = https://github.com/rheefine/avatar-chat-backend.git
+[submodule "avatar-chat-frontend"]
+	path = avatar-chat-frontend
+	url = https://github.com/rheefine/avatar-chat-frontend.git
